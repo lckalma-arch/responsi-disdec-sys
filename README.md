@@ -36,7 +36,9 @@
 
 ---
 
-## Soal 2 (CPMK 2 – 40%): REST API dengan Python
+
+
+## Soal 2 : REST API dengan Python
 
 Kode ada di folder `api/`.
 
@@ -60,9 +62,11 @@ Kode ada di folder `api/`.
 ```
 
 ### Bukti Soal 2
-![REST API JSON](docs/screenshots/soal2-api-json.png)
+   ![API Mahasiswa](docs/screenshots/soal2-api-mahasiswa.png)
+   ![API Produk](docs/screenshots/soal2-api-produk.png)
 
 ---
+
 
 ## Soal 3 (CPMK 3 – 40%): Mekanisme Konsensus Blockchain L1 — Ethereum (Proof of Stake / Gasper)
 
