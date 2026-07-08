@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  yugabytedb:
+    image: yugabytedb/yugabyte:latest
+    container_name: yugabytedb
+    command: bin/yugabyted start --daemon=false --ui=true
+    ports:
+      - "7000:7000"
+      - "9000:9000"
+      - "5433:5433"
+      - "9042:9042"
+    volumes:
+      - yb_data:/home/yugabyte/var
+    restart: unless-stopped
+
+volumes:
+  yb_data:
