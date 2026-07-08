@@ -68,7 +68,7 @@ Kode ada di folder `api/`.
 ---
 
 
-## Soal 3 (CPMK 3 – 40%): Mekanisme Konsensus Blockchain L1 — Ethereum (Proof of Stake / Gasper)
+## Soal 3 : Mekanisme Konsensus Blockchain L1 — Ethereum (Proof of Stake / Gasper)
 
 Blockchain L1 yang dipilih: **Ethereum**, menggunakan **Proof of Stake (PoS)** dengan protokol **Gasper** (gabungan LMD-GHOST + Casper FFG).
 
